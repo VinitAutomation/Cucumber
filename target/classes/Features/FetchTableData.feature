@@ -1,6 +1,6 @@
 Feature: Fetch Table Data
 
-
+@SmokeTest
 Scenario: Login Test Scenario
 Given user is on login page
 When title of login testdata
